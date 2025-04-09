@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\HexawareVS\\GitClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C06177C-4F42-42AB-8301-01C94BB9704C}|GitClass.csproj|d:\\hexawarevs\\gitclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C06177C-4F42-42AB-8301-01C94BB9704C}|GitClass.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C06177C-4F42-42AB-8301-01C94BB9704C}|GitClass.csproj|d:\\hexawarevs\\gitclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C06177C-4F42-42AB-8301-01C94BB9704C}|GitClass.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\HexawareVS\\GitClass\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\HexawareVS\\GitClass\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HexawareVS\\GitClass\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\HexawareVS\\GitClass\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T07:04:24.164Z",
               "EditorCaption": ""
